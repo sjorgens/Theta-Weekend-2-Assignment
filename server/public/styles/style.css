@@ -1,0 +1,92 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    margin-top: 5%;
+}
+
+.index-point, .prev, .next {
+    -moz-box-shadow: 2px 2px 2px #aaa;
+    -webkit-box-shadow: 2px 2px 2px #aaa;
+    box-shadow: 2px 2px 2px #aaa;
+}
+
+.index-point {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #dad5d2;
+    border: 1px solid black;
+}
+
+.index-point-active {
+    /*background-color: #ee100d;*/
+    background-color: #ffff00;
+}
+
+.person-shoutout {
+    height: 200px;
+}
+
+.navigation {
+    margin: 7px;
+}
+
+#lecture {
+    position: relative;
+    margin: -80px;
+    text-align: center;
+}
+
+#peopleContainer {
+    margin: auto;
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 590px;
+    height: 350px;
+    text-align: center;
+    background-color: #4F2683;
+    color: #fff;
+    opacity: 0.9;
+    border: 1px solid black;
+    -moz-box-shadow: 0 0 80px #fff;
+    -webkit-box-shadow: 0 0 80px #fff;
+    box-shadow: inset 0 0 80px #fff;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 7%;
+    margin-bottom: 10px;
+    -moz-box-shadow: 0 0 10px #fff;
+    -webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #fff;
+}
+
+.people {
+    padding: 30px;
+}

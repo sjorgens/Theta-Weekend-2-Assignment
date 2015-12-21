@@ -1,0 +1,107 @@
+{
+  "people": [
+    {
+      "name": "Paul Sotherland",
+      "location": "Saint Paul",
+      "animal": "Turtle",
+      "imgURL": "https://avatars0.githubusercontent.com/u/13722399?v=3&s=460"
+    },{
+      "name": "Mark Rothermal",
+      "location": "Champlin",
+      "animal": "Turtle",
+      "imgURL": "https://avatars1.githubusercontent.com/u/13953588?v=3&s=460"
+    },{
+      "name": "Scott",
+      "location": "Apple Valley",
+      "animal": "Dog",
+      "imgURL": "https://avatars2.githubusercontent.com/u/14831729?v=3&s=460"
+    },{
+      "name":"Altamir Coelho",
+      "location":"Minneapolis",
+      "animal":"Lion",
+      "imgURL": "https://avatars3.githubusercontent.com/u/14306250?v=3&s=460"
+    },{
+      "name":"Zach Hintgen",
+      "location":"Waconia",
+      "animal":"Rabbit",
+      "imgURL": "https://avatars0.githubusercontent.com/u/11142475?v=3&s=460"
+    },{
+      "name":"Sam Musselman",
+      "location":"Richfield",
+      "animal":"Black Bear",
+      "imgURL": "https://avatars2.githubusercontent.com/u/13911786?v=3&s=460"
+    },{
+      "name":"Brooks Nagel",
+      "location":"Minneapolis",
+      "animal":"Puma",
+      "imgURL": "https://avatars3.githubusercontent.com/u/13908428?v=3&s=460"
+    },{
+      "name":"Eric Anderson",
+      "location":"Minneapolis",
+      "animal":"Owl",
+      "imgURL": "https://avatars1.githubusercontent.com/u/11201405?v=3&s=460"
+    },{
+      "name":"Nathan",
+      "location":"Edina",
+      "animal":"Polar Bear",
+      "imgURL": "https://avatars1.githubusercontent.com/u/14079879?v=3&s=460"
+    },{
+      "name":"Amber",
+      "location":"Plymouth",
+      "animal":"Owl",
+      "imgURL": "https://avatars0.githubusercontent.com/u/13399728?v=3&s=460"
+    },{
+      "name":"Liz",
+      "location":"Bloomington",
+      "animal":"Wookie",
+      "imgURL": "https://avatars1.githubusercontent.com/u/14825591?v=3&s=460"
+    },{
+      "name":"Matthew Reinders",
+      "location":"Bloomington",
+      "animal":"Thomson gazelle",
+      "imgURL": "https://avatars2.githubusercontent.com/u/13934959?v=3&s=460"
+    },{
+      "name":"Chris Graff",
+      "location":"Minneapolis",
+      "animal":"Moose",
+      "imgURL": "https://avatars1.githubusercontent.com/u/13777647?v=3&s=460"
+    },{
+      "name":"Jeremy Cloutier",
+      "location":"Minneapolis",
+      "animal":"Phoenix",
+      "imgURL": "https://avatars2.githubusercontent.com/u/13895537?v=3&s=460"
+    },{
+      "name":"Joseph Anderson",
+      "location":"Minneapolis",
+      "animal":"Dolphin",
+      "imgURL": "https://avatars2.githubusercontent.com/u/13949092?v=3&s=460"
+    },{
+      "name":"Scott Bromander",
+      "location":"Narnia",
+      "animal":"Aye-aye",
+      "imgURL": "https://avatars3.githubusercontent.com/u/2431791?v=3&s=460"
+    },{
+      "name":"Kenzie Bultema",
+      "location":"Inver Grove Heights",
+      "animal":"Snow Leopard",
+      "imgURL": "https://avatars3.githubusercontent.com/u/13649551?v=3&s=460"
+    },{
+      "name":"Natalie Koch",
+      "location":"Minneapolis",
+      "animal":"Kittyfoofoo",
+      "imgURL": "https://avatars1.githubusercontent.com/u/13422222?v=3&s=460"
+    },{
+      "name":"Anthony Rohr",
+      "location":"Minneapolis",
+      "animal":"Otter",
+      "imgURL": "https://avatars3.githubusercontent.com/u/13773283?v=3&s=460"
+    }, {
+      "name": "Kristy Wessel",
+      "location": "Burnsville",
+      "animal": "Clumsy Cat",
+      "imgURL": "https://avatars0.githubusercontent.com/u/3421572?v=3&s=460"
+    }
+  ]
+}
+
+
